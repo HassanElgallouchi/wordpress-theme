@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Gridbox Child
+ Theme URI:    https://github.com/HassanElgallouchi
+ Description:  Gridbox Child Theme
+ Author:       El gallouchi
+ Author URI:   https://github.com/HassanElgallouchi
+ Template:     gridbox
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  gridbox
+*/
+#footer,
+#masthead {
+  background: #674c45;
+}
+article a img {
+  height: 200px;
+  object-fit: cover;
+}
